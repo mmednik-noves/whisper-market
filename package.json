@@ -10,6 +10,7 @@
   },
   "dependencies": {
     "@noves/intent-ethers-provider": "^0.1.1",
+    "@vercel/analytics": "^1.5.0",
     "framer-motion": "^11.0.8",
     "next": "15.3.2",
     "react": "^19.0.0",
